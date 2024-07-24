@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(199, 128, 128);
+    /* overflow: hidden; */
+}
+
+canvas {
+    display: inline;
+}
+
+#con1 {
+    width: 100%;
+    text-align: center;
+    background-color: white;
+}
